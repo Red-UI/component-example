@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react'
+import './Component.less'
 
 export default class ComponentExample extends Component {
   static displayName = "ComponentExample"
